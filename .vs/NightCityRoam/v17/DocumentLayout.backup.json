@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|c:\\users\\realr\\onedrive\\desktop\\collage\\games development\\nightcityroam\\assets\\acc_lite\\scripts\\game\\gameplay\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\acc_lite\\scripts\\game\\gameplay\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FF6480-04F6-B8AE-F212-EF7D8EC4FB2E}|Assembly-CSharp-Editor.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\realistic car controller pro\\editor\\rccp_carcontrollereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FF6480-04F6-B8AE-F212-EF7D8EC4FB2E}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\realistic car controller pro\\editor\\rccp_carcontrollereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\minimaparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\minimaparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\maxspeedreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\maxspeedreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\realistic car controller pro\\plugins\\rccp_lite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\realistic car controller pro\\plugins\\rccp_lite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\assets\\realistic car controller pro\\plugins\\rccp_lite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3B6609FD-DF95-4ED3-3901-D870148471D0}|Assembly-CSharp.csproj|solutionrelative:assets\\realistic car controller pro\\plugins\\rccp_lite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\PauseMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:42:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\ACC_Lite\\Scripts\\Game\\GamePlay\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\ACC_Lite\\Scripts\\Game\\GamePlay\\CarController.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\ACC_Lite\\Scripts\\Game\\GamePlay\\CarController.cs",
+              "RelativeToolTip": "Assets\\ACC_Lite\\Scripts\\Game\\GamePlay\\CarController.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAqwN8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T15:31:13.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\LoadingScreen.cs",
+              "RelativeToolTip": "Assets\\LoadingScreen.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:47:32.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:21:02.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniMapArrow.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MiniMapArrow.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniMapArrow.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MiniMapArrow.cs",
+              "RelativeToolTip": "Assets\\MiniMapArrow.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:25:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniMapFollow.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MiniMapFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniMapFollow.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MiniMapFollow.cs",
+              "RelativeToolTip": "Assets\\MiniMapFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:08:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RCCP_CarControllerEditor.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Editor\\RCCP_CarControllerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Editor\\RCCP_CarControllerEditor.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Editor\\RCCP_CarControllerEditor.cs",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Editor\\RCCP_CarControllerEditor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:47:37.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaxSpeedReward.cs",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MaxSpeedReward.cs",
+              "RelativeDocumentMoniker": "Assets\\MaxSpeedReward.cs",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\MaxSpeedReward.cs",
+              "RelativeToolTip": "Assets\\MaxSpeedReward.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:32:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RCCP_Lite.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-03-17T11:27:53.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RCCP_Lite.dll",
+              "DocumentMoniker": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "ToolTip": "C:\\Users\\REALR\\OneDrive\\Desktop\\collage\\games development\\NightCityRoam\\Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Plugins\\RCCP_Lite.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-03-17T11:26:17.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
